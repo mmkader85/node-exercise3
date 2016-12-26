@@ -1,29 +1,28 @@
 {
-  "name": "node-exercise3",
+  "name": "node-exercise3-pug",
   "version": "1.0.0",
-  "description": "edureka node exercise3",
-  "main": "index-pug.js",
+  "description": "edureka node exercise3 using pug",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmkader85/node-exercise3.git"
+    "url": "git+https://github.com/mmkader85/node-exercise3-pug.git"
   },
   "keywords": [
     "edureka",
     "node",
     "express",
-    "pug",
-    "handlebars"
+    "pug"
   ],
   "author": "Muhammed Abdul Kader",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mmkader85/node-exercise3/issues"
+    "url": "https://github.com/mmkader85/node-exercise3-pug/issues"
   },
-  "homepage": "https://github.com/mmkader85/node-exercise3#readme",
+  "homepage": "https://github.com/mmkader85/node-exercise3-pug#readme",
   "dependencies": {
     "express": "^4.14.0",
     "pug": "^2.0.0-beta6"
